@@ -60,12 +60,6 @@ An automated Python-based tool with a **Streamlit UI** designed to help you moni
 * Google API client
 * Gemini SDK (e.g., via `google.generativeai`)
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 📈 Sample Use Cases
